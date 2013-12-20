@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="CD-3570" id="0" name="Domain1ControllerTests" package="grailsapplication1" tests="8" time="4.181" timestamp="2013-06-09T14:45:38">
+      <properties />
+
+      <testcase classname="grailsapplication1.Domain1ControllerTests" name="testIndex" time="2.138" />
+
+      <testcase classname="grailsapplication1.Domain1ControllerTests" name="testList" time="0.969" />
+
+      <testcase classname="grailsapplication1.Domain1ControllerTests" name="testCreate" time="0.111" />
+
+      <testcase classname="grailsapplication1.Domain1ControllerTests" name="testSave" time="0.381" />
+
+      <testcase classname="grailsapplication1.Domain1ControllerTests" name="testShow" time="0.086" />
+
+      <testcase classname="grailsapplication1.Domain1ControllerTests" name="testEdit" time="0.085" />
+
+      <testcase classname="grailsapplication1.Domain1ControllerTests" name="testUpdate" time="0.142" />
+
+      <testcase classname="grailsapplication1.Domain1ControllerTests" name="testDelete" time="0.085" />
+
+      <system-out><![CDATA[--Output from testIndex--
+--Output from testList--
+--Output from testCreate--
+--Output from testSave--
+--Output from testShow--
+--Output from testEdit--
+--Output from testUpdate--
+--Output from testDelete--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testIndex--
+--Output from testList--
+--Output from testCreate--
+--Output from testSave--
+--Output from testShow--
+--Output from testEdit--
+--Output from testUpdate--
+--Output from testDelete--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="CD-3570" id="1" name="Domain1Tests" package="grailsapplication1" tests="1" time="0.095" timestamp="2013-06-09T14:45:42">
+      <properties />
+
+      <testcase classname="grailsapplication1.Domain1Tests" name="testSomething" time="0.093">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at grailsapplication1.Domain1Tests.testSomething(Domain1Tests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
